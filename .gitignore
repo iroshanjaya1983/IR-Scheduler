@@ -1,0 +1,19 @@
+# Arduino IDE
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.a
+*.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
