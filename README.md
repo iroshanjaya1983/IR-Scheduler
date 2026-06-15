@@ -49,3 +49,18 @@ Accurate timekeeping is maintained using a DS3231 RTC, ensuring scheduled events
 <p align="center">
   <img src="images/Schematic_IrAuto_2026-06-15.png" width="450" title="Schematic">
 </p>
+
+## Hardware
+<p align="center">
+  <img src="images/test-hardware.jpeg" width="450" title="Hardware">
+</p>
+
+## WiFi-SSID
+<p align="center">
+  <img src="images/wifi-ssid.jpeg" width="450" title="WiFI-SSID">
+</p>
+
+## Web Page
+<p align="center">
+  <img src="images/web-page.jpeg" width="450" title="Web-Page">
+</p>
