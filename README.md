@@ -44,3 +44,8 @@ Accurate timekeeping is maintained using a DS3231 RTC, ensuring scheduled events
    * **Password:** `12345678`
 3. **Web UI:** Open a browser and navigate to the gateway IP (usually `192.168.4.1`). Use the interface to sync the browser's time to the RTC, learn your remote's IR codes, and set up your daily schedules.
 4. **Execution:** Flip the switch back to **Auto Mode**. The ESP32 will disconnect from Wi-Fi, run cool, and automatically execute your IR schedules.
+
+##schematic
+<p align="center">
+  <img src="images/Schematic_IrAuto_2026-06-15.jpg" width="450" title="Schematic">
+</p>
