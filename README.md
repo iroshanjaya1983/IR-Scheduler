@@ -1,6 +1,6 @@
 # IR Scheduler
 
-IR Scheduler Pro is an autonomous, web-enabled Infrared (IR) remote scheduler built for the ESP32-C3 Super Mini. This device allows you to learn IR codes (both RAW and decoded), schedule them to transmit at specific times, and toggle between a configuration mode and an autonomous execution mode using a physical switch. 
+IR Scheduler is an autonomous, web-enabled Infrared (IR) remote scheduler built for the ESP32-C3 Super Mini. This device allows you to learn IR codes (both RAW and decoded), schedule them to transmit at specific times, and toggle between a configuration mode and an autonomous execution mode using a physical switch. 
 
 Accurate timekeeping is maintained using a DS3231 RTC, ensuring scheduled events fire reliably even without an active internet connection.
 
